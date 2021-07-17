@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a8afaa1-4ea3-433b-9674-cdee5ac614cd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opis programu.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Opis programu.txt" afterDir="false" />
-    </list>
+    <list default="true" id="6a8afaa1-4ea3-433b-9674-cdee5ac614cd" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,7 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -49,8 +46,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -79,6 +74,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Course" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -146,7 +143,7 @@
   <component name="ToolWindowManager">
     <frame x="593" y="111" width="1210" height="1037" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23826087" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2426087" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -193,13 +190,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/dc2.java" />
     <entry file="file://$PROJECT_DIR$/src/dc2/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/dc3/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dc3/Main.java" />
     <entry file="file://$PROJECT_DIR$/Opis programu.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">

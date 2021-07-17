@@ -1,1 +1,1 @@
-Zobacz film Krzysztofa Diksa na youtube.com
+Zobacz film prof. Krzysztofa Diksa (z Uniwersytetu Warszawskiego) na youtube.com (https://www.youtube.com/watch?v=Xmudle0HjWk)
