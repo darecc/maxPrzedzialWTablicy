@@ -1,0 +1,7 @@
+Program jest realizacją problemu postawionego przez prof. Krzysztofa Diksa w
+filmie https://www.youtube.com/watch?v=Xmudle0HjWk
+
+Znalezienie przedziału w tablicy jednowymiarowej, w którym to przedziale
+suma elementów jest największa.
+
+Podejście naiwne: obliczamy wszystkie możliwe sumy (złożoność O(n^3) - nie potrafię napisać tego ;)
