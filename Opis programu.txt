@@ -5,3 +5,5 @@ Znalezienie przedziału w tablicy jednowymiarowej, w którym to przedziale
 suma elementów jest największa.
 
 Podejście naiwne: obliczamy wszystkie możliwe sumy (złożoność O(n^3) - nie potrafię napisać tego ;)
+
+Podejście 2: suma[j+1] = max{suma[j] + t[j] , max[j]}, Złożoność O(n^2)
